@@ -25,7 +25,6 @@ TodoApps
 Содержит конвертер для категорий (CategoryConverter.cs).
 Содержит ViewModel с логикой приложения (MainViewModel.cs).
 Содержит XAML-файл интерфейса (MainWindow.xaml).
-Содержит техническую документацию (TechnicalDocumentation.md).
 
 Требования
 
